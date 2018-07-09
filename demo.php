@@ -2,7 +2,7 @@
 
 require_once 'classes/HtmlSecure.php';
 
-$nb_encode = 5;
+$nb_encode = 1;
 $path = './website';
 
 $html_secure = new HtmlSecure();
